@@ -1,0 +1,15 @@
+{
+  "name": "gulp-remove-function",
+  "version": "1.0.7",
+  "description": "删除js文件中的一个函数，有两个参数，其中regex为匹配要删除函数的文件名的正则，ruler为函数的开头，通常是要删除的开头到第一个｛以前的部分。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wupei",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^3.0.1"
+  }
+}
